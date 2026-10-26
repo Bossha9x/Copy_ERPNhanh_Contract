@@ -8,7 +8,7 @@
   -->
   <app appid="fjjbnnhnmmdcgfmodljeaohdhoibldbi">
     <updatecheck
-      codebase="https://github.com/Bossha9x/Copy_ERPNhanh_Contract/releases/download/v1.6.4/Copy_ERPNhanh_Contract.crx"
+      codebase="https://github.com/Bossha9x/Copy_ERPNhanh_Contract/releases/download/v1.6.4/Copy_ERPNhanh_Contract_v1.6.4.crx"
       version="1.6.4" />
   </app>
 </gupdate>
