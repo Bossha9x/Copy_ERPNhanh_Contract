@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gupdate xmlns='http://www.google.com/update2/response' protocol='3.0'>
+  <!--
+    SAU KHI CÓ REPO + ID TIỆN ÍCH: sửa 3 chỗ bên dưới.
+    appid = ID tiện ích (32 ký tự), xem chrome://extensions sau khi cài bản .crx lần đầu.
+    version = số trong manifest.json (vd 1.6.4)
+    codebase = link tải file .crx trên GitHub Releases (nút download asset)
+  -->
+  <app appid="fjjbnnhnmmdcgfmodljeaohdhoibldbi">
+    <updatecheck
+      codebase="https://github.com/Bossha9x/Copy_ERPNhanh_Contract/releases/download/v1.6.4/Copy_ERPNhanh_Contract.crx"
+      version="1.6.4" />
+  </app>
+</gupdate>
