@@ -2,7 +2,7 @@
 <gupdate xmlns='http://www.google.com/update2/response' protocol='3.0'>
   <app appid="fjjbnnhnmmdcgfmodljeaohdhoibldbi">
     <updatecheck
-      codebase="https://github.com/Bossha9x/Copy_ERPNhanh_Contract/releases/download/v1.6.5/Copy_ERPNhanh_Contract.crx"
+      codebase="https://github.com/Bossha9x/Copy_ERPNhanh_Contract/releases/download/v1.6.5/Copy_ERPNhanh_Contract_v1.6.5.crx"
       version="1.6.5" />
   </app>
 </gupdate>
